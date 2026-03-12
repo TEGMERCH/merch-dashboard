@@ -1,0 +1,20 @@
+HOW TO DEPLOY TO GITHUB PAGES
+==============================
+
+Option A — Replace your existing site files:
+1. Open your GitHub repo (theescapekeys/TEG-Marketing-digital-diagnostics or similar)
+2. Delete the existing files (or create a new repo)
+3. Upload ALL files from this folder (index.html, assets/, 404.html)
+4. Go to Settings → Pages → Source: Deploy from branch → main → / (root)
+5. Your dashboard will be live at https://theescapekeys.github.io/[repo-name]/
+
+Option B — New repo just for this dashboard:
+1. Create a new GitHub repo e.g. "teg-merch-dashboard"
+2. Upload all files from this folder
+3. Enable GitHub Pages (Settings → Pages → main branch)
+4. Visit https://theescapekeys.github.io/teg-merch-dashboard/
+
+FIRST TIME YOU OPEN IT:
+- Sign in: teg2026
+- Paste your Apps Script URL when prompted
+- It will remember the URL for future visits
